@@ -16,3 +16,9 @@ Error: spawn ENOENT
     }
     childProcess.spawn = mySpawn;
 })();
+
+
+# Error When install nodemon
+
+- npm install nodemon -g
+- Set enviroment variavles (Advanced system settings / Environment variable / Path )

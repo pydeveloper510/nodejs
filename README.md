@@ -22,3 +22,6 @@ Error: spawn ENOENT
 
 - npm install nodemon -g
 - Set enviroment variavles (Advanced system settings / Environment variable / Path )
+
+
+# Can't call app in app function ???

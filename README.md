@@ -27,3 +27,5 @@ Error: spawn ENOENT
 # Can't call app in app function ???
 
 # captcha usage
+svg-captcha 
+https://github.com/lazarofl/svg-captcha-express

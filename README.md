@@ -25,3 +25,5 @@ Error: spawn ENOENT
 
 
 # Can't call app in app function ???
+
+# captcha usage

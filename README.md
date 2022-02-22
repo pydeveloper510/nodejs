@@ -29,3 +29,6 @@ Error: spawn ENOENT
 # captcha usage
 svg-captcha 
 https://github.com/lazarofl/svg-captcha-express
+
+# import ejs file
+<%- include('./common/header'); %>

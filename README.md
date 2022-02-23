@@ -32,3 +32,4 @@ https://github.com/lazarofl/svg-captcha-express
 
 # import ejs file
 <%- include('./common/header'); %>
+<% include ./common/header.ejs %>

@@ -79,3 +79,8 @@ package.json을 열어보면 현재 설치되어있는 모듈과 버전을 확�
 
 3. 끝!!
 (node_modules폴더에 들어가면 내가 package.json에서 지웠던 모듈폴더가 없어져있는걸 확인 할 수 있다.)
+
+# node js Excution_Policies Error
+```
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```

@@ -84,3 +84,6 @@ package.json을 열어보면 현재 설치되어있는 모듈과 버전을 확�
 ```
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
+
+# node js + mongoDB
+
